@@ -1,0 +1,9 @@
+{
+  "watch": ["commands", "events", "deploy.js", "index.js"],
+  "ext": "js,json",
+  "ignore": ["node_modules"],
+  "execMap": {
+    "js": "node"
+  },
+  "exec": "node index.js"
+}

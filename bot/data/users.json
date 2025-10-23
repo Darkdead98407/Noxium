@@ -1,0 +1,46 @@
+{
+  "1247294883056717866": {
+    "id": "1247294883056717866",
+    "username": "darkdead98407",
+    "discriminator": "0",
+    "avatar": "8c8a9a80104c016a5d0c2520ce2a4a5c",
+    "guilds": [
+      {
+        "id": "1339193115499561030",
+        "name": "Noxium studio",
+        "icon": "218ca0bebe248895159cf1e56a9cb418",
+        "banner": null,
+        "owner": true,
+        "permissions": 2147483647,
+        "permissions_new": "4503599627370495",
+        "features": [
+          "SOUNDBOARD"
+        ]
+      },
+      {
+        "id": "1376682818662567946",
+        "name": "HydraHollow Network",
+        "icon": "29fefec744a9c366b6f10c4dfebc25a5",
+        "banner": null,
+        "owner": false,
+        "permissions": 2147483647,
+        "permissions_new": "4503599627370495",
+        "features": [
+          "GUILD_ONBOARDING_EVER_ENABLED",
+          "TIERLESS_BOOSTING_SYSTEM_MESSAGE",
+          "MEMBER_VERIFICATION_GATE_ENABLED",
+          "PIN_PERMISSION_MIGRATION_COMPLETE",
+          "SOUNDBOARD",
+          "GUILD_ONBOARDING",
+          "NEWS",
+          "COMMUNITY",
+          "CREATOR_MONETIZABLE_PROVISIONAL",
+          "AUTO_MODERATION",
+          "CREATOR_ACCEPTED_NEW_TERMS",
+          "GUILD_SERVER_GUIDE",
+          "GUILD_ONBOARDING_HAS_PROMPTS"
+        ]
+      }
+    ]
+  }
+}
